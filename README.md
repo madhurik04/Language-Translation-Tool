@@ -2,6 +2,10 @@
 
 This is a simple GUI-based language translation tool built using Python's Tkinter library for the user interface and Googletrans for translation services. The application allows users to input text, select a source language, and a target language, and then get the translated text displayed.
 
+<p align = "center">
+    <img src = "https://github.com/madhurik04/Language-Translation-Tool/assets/131545409/15b6786e-d122-4f8e-8ce2-bc624a5d3a74">
+</p>
+
 ## Features
 
 - User-friendly graphical interface
